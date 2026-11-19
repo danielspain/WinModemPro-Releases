@@ -1,0 +1,34 @@
+WinModemPro Freeware License
+
+Copyright (C) 2026 The WinModemPro authors. All rights reserved.
+
+WinModemPro is free of charge, but it is not open source. The authors keep all
+rights not expressly granted here.
+
+1. You may download, install and use WinModemPro for any lawful personal or
+   business purpose, at no cost.
+
+2. You may give others complete, unmodified copies of the WinModemPro release
+   package, including this license and THIRD-PARTY-NOTICES.txt, as long as you
+   do not charge for them.
+
+3. You may not sell or rent WinModemPro, distribute modified copies, remove its
+   notices, or present it as your own work.
+
+4. You may not decompile, disassemble or reverse engineer WinModemPro, except
+   where applicable law allows this regardless of this license.
+
+5. Third-party components included with WinModemPro remain under their own
+   licenses, listed in THIRD-PARTY-NOTICES.txt. Nothing here limits your rights
+   under those licenses.
+
+6. Your permission under this license ends automatically if you break its terms.
+   If that happens, you must stop using and distributing WinModemPro.
+
+7. WINMODEMPRO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE AND NONINFRINGEMENT.
+
+8. TO THE EXTENT THE LAW ALLOWS, THE AUTHORS ARE NOT LIABLE FOR ANY CLAIM, DAMAGES
+   OR OTHER LIABILITY ARISING FROM WINMODEMPRO OR ITS USE, INCLUDING TELEPHONE
+   CHARGES, LOST DATA AND ANY OTHER DIRECT OR INDIRECT LOSS.
