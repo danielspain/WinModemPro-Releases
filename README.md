@@ -9,6 +9,8 @@ WinModemPro is a free Windows communications terminal in the spirit of the class
 - Telnet, Rlogin, SSH, modem and direct serial connections
 - Tabs, with a separate script and file transfer in each one
 - SLIQ scripting with an editor and debugger
+- Sandboxed Lua and JavaScript scripting
+- Optional AI script generation with your own Anthropic API key
 - Macros and key maps
 - Zmodem, Ymodem, Xmodem and Kermit file transfers
 - ANSI, VT100, VT220, VT320, VT52, Avatar, RIPscrip and Xterm terminal support
@@ -22,6 +24,8 @@ You need 64-bit Windows 10 or 11. Nothing else needs to be installed.
 3. Run `WinModemPro.exe`.
 
 The program is not code signed yet, so Windows SmartScreen may show a warning. To continue, choose **More info**, then **Run anyway**. Each release lists a SHA-256 checksum that you can use to verify your download.
+
+The release includes `Scripting-Guide.md`, which covers the Lua and JavaScript commands and AI script generation.
 
 ## License
 
